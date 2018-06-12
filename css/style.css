@@ -147,7 +147,7 @@ header{
 }
 .banner{
 	height: 700px;
-	background: url(../img/backBig.jpg) no-repeat center;
+	background: url(../img/backbig.jpg) no-repeat center;
 	background-size: cover;
 	padding: 1px;
 	position: relative;
